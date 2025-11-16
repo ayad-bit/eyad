@@ -1,0 +1,5 @@
+{
+  "name": "Aloreini Family Tree",
+  "description": "An interactive web application that allows users to query the relationships between members of the Aloreini family tree using an AI-powered genealogist.",
+  "requestFramePermissions": []
+}
